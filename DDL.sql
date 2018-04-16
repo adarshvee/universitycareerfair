@@ -1,4 +1,4 @@
-create database CareerFair1;
+create database CareerFair;
 
 show databases;
 

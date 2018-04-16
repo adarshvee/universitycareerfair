@@ -1,4 +1,4 @@
-Use CareerFair1;
+Use CareerFair;
 #Onetime (hopefully) inserts of static data
 #Some Majors
 
